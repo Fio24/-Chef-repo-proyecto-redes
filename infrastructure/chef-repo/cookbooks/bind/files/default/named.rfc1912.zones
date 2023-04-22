@@ -10,6 +10,22 @@
 // See /usr/share/doc/bind*/sample/ for example named configuration files.
 //
 
+zone "asimov.io" IN {
+    type master;
+    file "asimov.io.zone";
+};
+
+zone "dostoievski.io" IN {
+    type master;
+    file "dostoievski.io.zone";
+};
+
+zone "google.com" IN {
+    type master;
+    file "google.com.zone";
+};
+
+
 zone "localhost.localdomain" IN {
 	type master;
 	file "named.localhost";
