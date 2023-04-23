@@ -24,7 +24,7 @@
             "masters": ["52.149.155.47"]
         }
     ],
-    "forwarders": ["8.8.8.8", "8.8.8.9"],
+    "bind_forward_zone": { "forwarders": [  "8.8.8.8",    "8.8.8.9"]},
     "records": [
         {
             "name": "www.google.com",
