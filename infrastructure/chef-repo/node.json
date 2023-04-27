@@ -9,19 +9,19 @@
             "type": "master",
             "zone_name": "asimov.io",
             "file_name": "asimov.io.zone",
-            "masters": ["52.149.155.47"]
+            "masters": ["20.124.112.195"]
         },
         {
             "type": "master",
             "zone_name": "dostoievski.io",
             "file_name": "dostoievski.io.zone",
-            "masters": ["52.149.155.47"]
+            "masters": ["20.124.112.195"]
         },
         {
             "type": "master",
             "zone_name": "google.com",
             "file_name": "google.com.zone",
-            "masters": ["52.149.155.47"]
+            "masters": ["20.124.112.195"]
         }
     ],
     "bind_forward_zone": { "forwarders": [  "8.8.8.8",    "8.8.8.9"]},

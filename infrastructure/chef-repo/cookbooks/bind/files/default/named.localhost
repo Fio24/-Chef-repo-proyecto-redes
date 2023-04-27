@@ -8,6 +8,6 @@ $TTL 3H
                         )
         IN      NS      ns.dostoievski.io.
 
-ns      IN      A       52.149.155.47
+ns      IN      A       52.149.155.4720.124.112.195
 isaac   IN      A       172.173.178.141
 *       IN      A       4.227.244.216

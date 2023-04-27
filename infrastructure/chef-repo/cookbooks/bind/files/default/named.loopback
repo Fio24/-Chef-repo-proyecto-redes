@@ -8,6 +8,6 @@ $TTL 3H
                                  )
                 IN      NS      ns.google.com.
 
-ns              IN      A       52.149.155.47
+ns              IN      A       20.124.112.195
 www  IN      A       4.227.244.216
 www  IN      A       172.173.178.141
