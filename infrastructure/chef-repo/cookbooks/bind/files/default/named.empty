@@ -8,6 +8,6 @@ $TTL 3H
                         )
         IN      NS      ns.asimov.io.
 
-ns      IN      A       20.124.112.195
+ns      IN      A       20.172.225.159
 fiodor  IN      A       40.88.130.113
 *       IN      A       20.232.188.2
